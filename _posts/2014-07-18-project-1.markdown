@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2016-06-01
+img: otis.png
+alt: Otis Bot Website
+project-date: June 2016
+client: Otis Bot
+category: Web Design/Development, Content Creation
+description: (In Progress). The Otis website is a landing page for <a href="https://otis-bot.github.io/">Otis Bot</a>, an open source project. It was built using the solid-jekyll theme designed by blacktie.co. The Otis Bot logo, the cat's face was modified from a CCO image. The Front-end and Backend cat logos was an original design made in Photoshop.
+
+---

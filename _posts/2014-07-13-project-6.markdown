@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 6
+modal-id: Video
 date: 2014-07-15
 img: video.png
 alt: image-alt

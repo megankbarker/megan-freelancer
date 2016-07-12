@@ -22,7 +22,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.tertiary }};
 }
 
 h1,
@@ -213,7 +213,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(79,76,76,.9);
+    background: rgba(153,204,204,.9);
     /*background: rgba({{ site.color.primary-rgb }},.9);*/
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
@@ -270,6 +270,16 @@ section.success {
     border: solid 2px #fff;
     color: #{{ site.color.tertiary }};
     background: #fff;
+}
+li.page-scroll {
+    color: red !important;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+     color: rgba(153,204,204,.9) !important;
+}
+.navbar-brand {
+    color: rgba(153,204,204,.9) !important;
 }
 
 .floating-label-form-group {
@@ -448,7 +458,7 @@ footer .footer-below {
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: #{{ site.color.tertiary }} !important;
 }
 
 /* Fix modal mouse wheel issues */

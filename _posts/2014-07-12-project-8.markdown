@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 8
+date: 2014-07-12
+img: CompuDirect_website.png
+alt: Compu Direct logo
+project-date: February 2016
+client: San Francisco Startup
+category: Graphic Design
+description: Created a fake marketplace logo for client training purposes. Production time 2 hrs
+
+---

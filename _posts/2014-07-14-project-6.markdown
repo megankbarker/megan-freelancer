@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2014-07-14
+img: SafeLock_website.png
+alt: Billsy logo
+project-date: February 2016
+client: AppDirect
+category: Graphic Design
+description: Created a fake marketplace logo for client training purposes.
+
+---

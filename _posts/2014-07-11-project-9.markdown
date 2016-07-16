@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 9
+date: 2014-07-11
+img: agvid.png
+alt: Agriculture Video
+project-date: February 2013
+client: Environmental Defense Center
+category: Video
+description: A short documentary video that I directed, filmed and edited for an environmental non-profit organization. It was shot with Sony HDR-Cx760 and historical photographs were provided by the environmental planner whom I collaborated with. 
+
+---

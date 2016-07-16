@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 7
+date: 2014-07-13
+img: Billsy_website2.png
+alt: Billsy logo
+project-date: February 2016
+client: AppDirect
+category: Graphic Design
+description: Created a fake marketplace logo for client training purposes.
+
+---

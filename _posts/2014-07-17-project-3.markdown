@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-17
-img: PointLobos.png
+img: Pt_Lobos.png
 alt: Point Lobos
 project-date: March 2016
 client: Firehose Project

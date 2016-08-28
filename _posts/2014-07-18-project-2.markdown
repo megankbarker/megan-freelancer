@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: otis.png
+img: Otis_Website2.png
 alt: Otis Bot Website
 project-date: June 2016
 client: Otis Bot

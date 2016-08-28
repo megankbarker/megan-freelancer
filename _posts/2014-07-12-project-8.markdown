@@ -2,11 +2,11 @@
 layout: default
 modal-id: 8
 date: 2014-07-12
-img: CompuDirect_website.png
-alt: Compu Direct logo
+img: GIS_Map.png
+alt: Santa Barbara County Watershed Conservation Potential
 project-date: February 2016
-client: San Francisco Startup
-category: Graphic Design
-description: Created a fake marketplace logo for client training purposes. Production time 2 hrs
+client: UCSB Student Project
+category: Graphic Design | GIS Map
+description: Student mapping assignment created with ARCGIS which ranked watershed by their conservation potential.
 
 ---

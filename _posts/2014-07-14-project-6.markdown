@@ -6,7 +6,7 @@ img: SafeLock_website.png
 alt: Billsy logo
 project-date: February 2016
 client: AppDirect
-category: Graphic Design
+category: Graphic Design | Logo
 description: Created a fake marketplace logo for client training purposes.
 
 ---
